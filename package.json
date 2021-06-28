@@ -1,0 +1,17 @@
+{
+	"name": "space-test",
+	"version": "1.0.0",
+	"description": "",
+	"main": "src/test.ts",
+	"scripts": {
+	},
+	"dependencies": {
+	  "typescript": "4.3.4",
+	  "@emotion/react": "11.4.0",
+	  "@emotion/styled": "11.3.0",
+	  "@types/react": "17.0.11",
+	  "react": "17.0.2",
+	  "react-dom": "17.0.2"
+	}
+  }
+  
